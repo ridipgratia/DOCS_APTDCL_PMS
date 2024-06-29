@@ -1,0 +1,5 @@
+FRONTEND ->
+    1. LOGIN ->
+        1. USER NAME - INPUT
+        2. PASSWORD -> INPUT
+        3. ROLE -> BOX
